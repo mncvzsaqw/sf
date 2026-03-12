@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SoulForge",
+  "description": "A high-fidelity AI companion management interface with deep memory integration and immersive interaction modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
